@@ -1,5 +1,0 @@
-nextcord
-requests
-httpx
-certifi
-myserver
